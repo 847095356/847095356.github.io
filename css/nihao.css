@@ -1,0 +1,49 @@
+/* 用来保存各个子网站的样式 */
+
+/* 中间用来填写信息的 */
+#buttom{
+    height: 100%;
+    width:100%;
+    background-color: rgb(207, 195, 157);
+    border-width: 1px;
+}
+
+/* 个人信息 */
+.info p{
+    color: #000;
+    text-align: left;		
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 18px;
+    padding-right: 300px;
+	padding-left: 300px;
+}
+
+/* 联系方式 */
+.contactblock{
+    margin-left: 500px;
+}
+
+/* 提交时的文本框 */
+textarea{
+    width: 400px;
+    height: 110px;
+}
+form{
+    padding-left:300px;
+}
+
+/* 列表中的 a标签属性 */
+.listinfo a{
+    text-align: left;		
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 340px;
+    font-size: 16px;
+    color: #000;
+}
+
+/* 图片位置 */
+.img{
+    text-align:center;
+}
